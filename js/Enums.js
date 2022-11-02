@@ -1,0 +1,17 @@
+const Colors = {
+	Black: '#1a1c2c',
+	Purple: '#5d275d',
+	Red: '#b13e53',
+	Orange: '#ef7d57',
+	Yellow: '#ffcd75',
+	LightGreen: '#a7f070',
+	Green: '#38b764',
+	DarkGreen: '#257179',
+	DarkBlue: '#29366f',
+	Blue: '#3b5dc9',
+	LightBlue: '#41a6f6',
+	White: '#f4f4f4',
+	LightGrey: '#94b0c2',
+	Grey: '#566c86',
+	Black: '#333c57',
+};
